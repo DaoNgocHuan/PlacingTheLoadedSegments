@@ -1,0 +1,29 @@
+﻿Build started 6/4/2018 7:01:45 PM.
+     1>Project "C:\Users\DaoHuan94\Documents\Visual Studio 2010\Projects\Interface_Diploma\Interface_Diploma\Interface_Diploma.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Interface_Diploma.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.6\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.6\include\QtCore /IC:\Qt\4.8.6\include\QtGui /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt diploma.cpp
+         diploma.cpp
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DaoHuan94\Documents\Visual Studio 2010\Projects\Interface_Diploma\Win32\Debug\\Interface_Diploma.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.6\lib qtmaind.lib QtCored4.lib QtGuid4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Interface_Diploma.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\DaoHuan94\Documents\Visual Studio 2010\Projects\Interface_Diploma\Win32\Debug\Interface_Diploma.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DaoHuan94\Documents\Visual Studio 2010\Projects\Interface_Diploma\Win32\Debug\Interface_Diploma.lib" /MACHINE:X86 Debug\diploma.obj
+         Debug\moc_diploma.obj
+         Debug\moc_interface_diploma.obj
+         Debug\qrc_interface_diploma.obj
+         Debug\interface_diploma.obj
+         Debug\main.obj
+         LINK : C:\Users\DaoHuan94\Documents\Visual Studio 2010\Projects\Interface_Diploma\Win32\Debug\\Interface_Diploma.exe not found or not built by the last incremental link; performing full link
+         Interface_Diploma.vcxproj -> C:\Users\DaoHuan94\Documents\Visual Studio 2010\Projects\Interface_Diploma\Win32\Debug\Interface_Diploma.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\DaoHuan94\Documents\Visual Studio 2010\Projects\Interface_Diploma\Win32\Debug\\Interface_Diploma.exe;#1" /manifest Debug\Interface_Diploma.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Interface_Diploma.unsuccessfulbuild".
+         Touching "Debug\Interface_Diploma.lastbuildstate".
+     1>Done Building Project "C:\Users\DaoHuan94\Documents\Visual Studio 2010\Projects\Interface_Diploma\Interface_Diploma\Interface_Diploma.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.57

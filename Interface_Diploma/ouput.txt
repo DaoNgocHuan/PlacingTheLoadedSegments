@@ -1,0 +1,35 @@
+The permutation w can be found by sorting by not increasing the number of specific weights of the segments:
+w=(1 3 5 4 2 )
+k: 0
+alphak: 53.1698
+deltaMin: 9.83019
+a=(2 10 30 25 1 )
+w=(1 3 5 4 2 )
+k: 1
+ alphak: 54.4906
+ deltaMin: 8.50943
+ a=(10 2 30 25 1 )
+w=(3 1 5 4 2 )
+k: 2
+ alphak: 56.4528
+ deltaMin: 6.54717
+ a=(10 30 2 25 1 )
+w=(3 5 1 4 2 )
+k: 3
+ alphak: 59.1887
+ deltaMin: 3.81132
+ a=(10 30 25 2 1 )
+w=(3 5 4 1 2 )
+k: 4
+ alphak: 61.3962
+ deltaMin: 1.60377
+ a=(10 30 25 1 2 )
+w=(3 5 4 2 1 )
+k: 5
+ alphak: 65.0189
+ deltaMin: 2.01887
+ a=(30 10 25 1 2 )
+w=(5 3 4 2 1 )
+
+Result:
+Aw=(A3A5A4A2A1)

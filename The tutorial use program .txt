@@ -1,0 +1,9 @@
+- Login to the program with username and password is "1". Then press the "login" button
+- You have 2 ways to implement the program:
+	+ Select the input file by pressing button "Openfile".Then press the "result" button to get the result.
+	+ Input your data yourself:
+		1- select N and c.
+		2- press button select to create table. 
+		3- Import data into the table
+		4- Then press the "result" button to get the result.
+-If you want to save the result you can get the "SaveFile" button.
